@@ -12,4 +12,4 @@ This was designed for a hackathon with a school theme. It pops up in the termina
 
 I appreciate you giving my script a try and hopefully by the time you see this I'll have some other stuff for you to check out.
 
-- Berto
+-- Berto
