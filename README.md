@@ -10,6 +10,8 @@ This script also has the ability to delete itself after being ran. This was done
 
 This was designed for a hackathon with a school theme. It pops up in the terminal and there's no way out of it. If you don't score high enough, we will have to walk over and input the password to get out. Doing this lets us see if they received a pass or fail message. 
 
+If you run this on someone's terminal and they don't know the password its basically ransomware if they can't close the terminal because without the password you can't do anything. Please don't use this for malicious purposes. Don't know why you would, however, just putting it out there.
+
 I appreciate you giving my script a try and hopefully by the time you see this I'll have some other stuff for you to check out.
 
 -- Berto
