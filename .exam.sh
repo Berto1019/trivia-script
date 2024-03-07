@@ -8,6 +8,7 @@ clear
 trap '' INT TSTP
 
 # Creates ASCII art so it looks nicer
+echo "                      It's Question Time!                    "
 echo "                               .------------------------."
 echo "                              |    Well, Berto, do       |"
 echo "    __________________________|   you know the answer?   |"
@@ -34,8 +35,8 @@ echo "             /     \                   <   ?)))     Z  z"
 echo "             |     |                    \_.(((("
 echo "             \  __ /                    __()))))"
 echo "              \(__)                    /        \ "
-echo "            __//  \                   /   ,..--'^|"
-echo "          /`  (____)-.               /  ( |      |"
+echo "            __//  \                   /   ,..-- ^|"
+echo "          /   (____)-.               /  ( |      |"
 echo "         /            \                 / |..--/^  "
 
 # Explains the rules
