@@ -144,7 +144,7 @@ else
 fi
 
 # Ends quiz and makes it where a faculty member has to input the password
-# This is so we can verify who gets handcuffed and taken away ;)
+# This is so we can manually verify if you win or lose...
 echo ""
 echo ""
 echo "END QUIZ, ONLY A FACULTY MEMBER CAN EXIT YOU!"
@@ -166,4 +166,4 @@ done
 # Script self deletes so they won't even know what hit them
 
 # Deletes file, granted its in /Pictures 
-rm -f ~/Pictures/.exam.sh
+# rm -f ~/Pictures/.exam.sh
