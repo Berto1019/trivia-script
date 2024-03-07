@@ -4,9 +4,39 @@
 # Clears terminal
 clear
 
- # Makes it so user has to do the trivia and can't quit
+# Makes it so user has to do the trivia and can't quit
 trap '' INT TSTP
 
+# Creates ASCII art so it looks nicer
+echo "                         .------------------------.
+                              |    Well, Berto, do       |
+    __________________________|   you know the answer?   |
+   |  _________________________'-------------,----------'
+   | |                         ____         /  | |
+   | |  Who is the President  (___ \           | |
+   | |  of the U.S.?         ( (..) )          | |
+   | |                  \\\' |( < ,) )         | |
+   | |                   `|_\_\)--(  )         | |
+   | |                    \  ,"""(___)         | |
+   | |                     `'\_  __  \         | |
+   | |                        |    ,  )        | |
+   | |_______________________ /  _/  /_________| |
+   |________________________ I ///\./I___________|     
+                             |       |
+                             |       |
+                             '-.._..-'   .---------------------------.
+                               | |  )   (  Erm... Tyler Barnes?       )
+                              _| | /     '--------,------------------'
+                            .'_.�_/7            _/
+                                         .((()           Z  z
+              _..._                     /_ (())        z
+             /     \                   <   ?)))     Z
+             |     |                    \_.((((
+             \  __ /                    __()))))
+              \(__)                    /        \
+            __//  \                   /   ,..--'^|
+          /`  (____)-.               /  ( |      |
+         /            \                 / |..--/^ "
 # Explains the rules
 echo "We hope you've been studying!"
 sleep 1
